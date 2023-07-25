@@ -1,0 +1,56 @@
+[
+    {
+        "nombre": "bar one",
+        "banda": "Cruzando el Charco",
+        "imagen": "image_1.jpg",
+        "id_ubicacion": 1
+    },
+    {
+        "nombre": "teatro provincial",
+        "banda": "Cuarteto de Nos",
+        "imagen": "image_2.jpg",
+        "id_ubicacion": 2
+    },
+    {
+        "nombre": "usina cultural",
+        "banda": "Vox Dei",
+        "imagen": "image_3.jpg",
+        "id_ubicacion": 3
+    },
+    {
+        "nombre": "teatro Provincial",
+        "banda": "Axel",
+        "imagen": "image_4.jpg",
+        "id_ubicacion": 4
+    },
+    {
+        "nombre": "teatro provincial",
+        "banda": "grupo Ginda",
+        "imagen": "image_5.jpg",
+        "id_ubicacion": 5
+    },
+    {
+        "nombre": "teatro eduardo Falu",
+        "banda": "Miguel Mateo",
+        "imagen": "image_6.jpg",
+        "id_ubicacion": 6
+    }
+    {
+        "nombre": "Fabrica de musica",
+        "banda": "Mtv Hit",
+        "imagen": "image_7.jpg",
+        "id_ubicacion": 7
+    }
+    {
+        "nombre": "Rarest bar",
+        "banda": "Ezequiel Arias",
+        "imagen": "image_8.jpg",
+        "id_ubicacion": 8
+    }
+    {
+        "nombre": "teatro eduardo Falu",
+        "banda": "Fito Paez",
+        "imagen": "image_9.jpg",
+        "id_ubicacion": 9
+    }
+]
