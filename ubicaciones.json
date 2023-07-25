@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 1,
+        "latitud": -24.7782094,
+        "longitud": -65.4120255,
+        "direccion": "Balcarce 931"
+    },
+    {
+        "id" : 2,
+        "latitud": -24.7890262,
+        "longitud": -65.4121256,
+        "direccion": "Zuviria 70"
+    },
+    {
+        "id" : 3,
+        "latitud": -24.788805,
+        "longitud": -65.4064304,
+        "direccion": "España 1-98"
+    },
+    {
+        "id" : 4,
+        "latitud": -24.7890262,
+        "longitud": -65.4121256,
+        "direccion": "Zuviria 70"
+    },
+    {
+        "id" : 5,
+        "latitud": -24.7890262,
+        "longitud": -65.4121256,
+        "direccion": "Zuviria 70"
+    },
+    {
+        "id" : 6,
+        "latitud": -24.7890262,
+        "longitud": -65.4121256,
+        "direccion": "Zuviria 70"
+    },
+    {
+        "id" : 7,
+        "latitud": -24.7790203,
+        "longitud": -65.41606,
+        "direccion": "Balcarce 875"
+    }
+    {
+        "id" : 8,
+        "latitud": -24.7999543,
+        "longitud": -65.3920535,
+        "direccion": "Joaquin durand 1650"
+    }
+    {
+        "id" : 9,
+        "latitud": -24.7890262,
+        "longitud": -65.4121256,
+        "direccion": "Zuviria 70"
+    }
+]
